@@ -29,9 +29,10 @@ struct SwiftPlayground {
 
         let furnitureVolumes = [1.2, 0.8, 2.5, 0.6, 1.0]
         let listLength = furnitureVolumes.count
-        
-        for number in 1...5 {
-            print(number) // Prints 1, 2, 3, 4, 5
+        for furnitureVolume  
+
         }
-    }  
+        }
+    }
+}  
 }
